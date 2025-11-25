@@ -37,7 +37,8 @@ ML-IDS/
 
 1. **Install dependencies:**
 ```bash
-pip install -r requirements.txt
+pip install numpy pandas scikit-learn xgboost matplotlib
+
 ```
 
 2. **Download dataset:**
